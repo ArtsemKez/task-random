@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArtsemKez.github.io/task-random.git/static/css/main.2fd88396.css",
-    "main.js": "/ArtsemKez.github.io/task-random.git/static/js/main.1a574181.js",
-    "static/js/787.7421adfe.chunk.js": "/ArtsemKez.github.io/task-random.git/static/js/787.7421adfe.chunk.js",
-    "index.html": "/ArtsemKez.github.io/task-random.git/index.html",
-    "main.2fd88396.css.map": "/ArtsemKez.github.io/task-random.git/static/css/main.2fd88396.css.map",
-    "main.1a574181.js.map": "/ArtsemKez.github.io/task-random.git/static/js/main.1a574181.js.map",
-    "787.7421adfe.chunk.js.map": "/ArtsemKez.github.io/task-random.git/static/js/787.7421adfe.chunk.js.map"
+    "main.css": "/task-random/static/css/main.2fd88396.css",
+    "main.js": "/task-random/static/js/main.abf8afc7.js",
+    "static/js/787.7421adfe.chunk.js": "/task-random/static/js/787.7421adfe.chunk.js",
+    "index.html": "/task-random/index.html",
+    "main.2fd88396.css.map": "/task-random/static/css/main.2fd88396.css.map",
+    "main.abf8afc7.js.map": "/task-random/static/js/main.abf8afc7.js.map",
+    "787.7421adfe.chunk.js.map": "/task-random/static/js/787.7421adfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fd88396.css",
-    "static/js/main.1a574181.js"
+    "static/js/main.abf8afc7.js"
   ]
 }
