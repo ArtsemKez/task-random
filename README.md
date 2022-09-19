@@ -9,3 +9,8 @@ ___
 
 ![](public/freeView.png)
 ![](public/view.png)
+
+___
+
+Link to GitHub Pages:
+https://ArtsemKez.github.io/task-random
