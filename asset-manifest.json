@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArtsemKez/task-random.git/static/css/main.2fd88396.css",
+    "main.js": "/ArtsemKez/task-random.git/static/js/main.dc8d5323.js",
+    "static/js/787.7421adfe.chunk.js": "/ArtsemKez/task-random.git/static/js/787.7421adfe.chunk.js",
+    "index.html": "/ArtsemKez/task-random.git/index.html",
+    "main.2fd88396.css.map": "/ArtsemKez/task-random.git/static/css/main.2fd88396.css.map",
+    "main.dc8d5323.js.map": "/ArtsemKez/task-random.git/static/js/main.dc8d5323.js.map",
+    "787.7421adfe.chunk.js.map": "/ArtsemKez/task-random.git/static/js/787.7421adfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd88396.css",
+    "static/js/main.dc8d5323.js"
+  ]
+}
